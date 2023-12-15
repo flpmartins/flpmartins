@@ -8,8 +8,21 @@
 
 ![Flpmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=flpmartins&show_icons=true&theme=dark)
 
-## Tecnologias
+## Sobre Mim
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias. Minha jornada no mundo da programação começou...
 
+## Projetos Destacados
+- [Projeto 1](https://github.com/flpmartins/Planet-Motorhome):Plataforma centralizada para entusiastas de motorhomes, oferecendo informações sobre destinos, acampamentos e eventos, promovendo uma comunidade vibrante.
+
+- [Projeto 2](https://github.com/flpmartins/API-POC-URL-PRE-SIGNED): API POC para geração segura de URLs pré-assinadas, permitindo acesso temporário a recursos específicos, ideal para ambientes que exigem controle preciso de acesso a arquivos ou mídia.
+
+
+## Habilidades
+- Trabalho em equipe
+- Comunicação eficaz
+- Resolução de problemas
+
+## Tecnologias
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
