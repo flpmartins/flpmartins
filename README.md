@@ -35,3 +35,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flpmartins/flpmartins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flpmartins/flpmartins/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flpmartins/flpmartins/output/github-contribution-grid-snake.svg">
+</picture>
