@@ -31,6 +31,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img alt="Fastify" src="https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white">
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white">
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
