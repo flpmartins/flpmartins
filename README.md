@@ -13,15 +13,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor focado em **criar soluções práticas, escaláveis e bem estruturadas**, atuando principalmente com **JavaScript/TypeScript no frontend e backend**.
+Sou desenvolvedor focado em **criar soluções práticas, escaláveis e bem estruturadas**, atuando tanto no **frontend quanto no backend**.
 
 Tenho experiência em:
-- construção de dashboards e sistemas financeiros
+- desenvolvimento de dashboards e sistemas financeiros
 - integrações com APIs e serviços externos
 - aplicações em tempo real (WebSocket / Socket.IO)
 - organização de código, padrões e boas práticas
 
-Gosto de entender o **problema de negócio** antes de escrever código e busco sempre entregar algo claro, sustentável e fácil de manter.
+Busco sempre entender o **problema de negócio** antes de escrever código, entregando soluções claras, sustentáveis e fáceis de manter.
 
 ---
 
@@ -49,7 +49,7 @@ API POC para geração segura de URLs pré-assinadas, permitindo acesso temporá
 **Destaques:**
 - controle de acesso
 - segurança
-- ideal para ambientes corporativos
+- uso em ambientes corporativos
 
 **Stack:**  
 `Node.js` · `TypeScript` · `Amazon S3`
@@ -65,6 +65,7 @@ API POC para geração segura de URLs pré-assinadas, permitindo acesso temporá
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -73,6 +74,7 @@ API POC para geração segura de URLs pré-assinadas, permitindo acesso temporá
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white)
+![Knex](https://img.shields.io/badge/Knex.js-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Banco de Dados & Infra
@@ -88,7 +90,7 @@ API POC para geração segura de URLs pré-assinadas, permitindo acesso temporá
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpmartins&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flpmartins&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=21600)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flpmartins&theme=dark)
 
 ---
@@ -107,4 +109,3 @@ API POC para geração segura de URLs pré-assinadas, permitindo acesso temporá
 
 - LinkedIn: https://www.linkedin.com/in/filipe-martins-developer/
 - GitHub: https://github.com/flpmartins
-
