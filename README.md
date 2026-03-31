@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alony_filipe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-martins-developer/)
 
-![Flpmartins GitHub stats](https://github-readme-stats.vercel.app/api?username=flpmartins&show_icons=true&theme=dark)
-
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias. Minha jornada no mundo da programação começou...
 
